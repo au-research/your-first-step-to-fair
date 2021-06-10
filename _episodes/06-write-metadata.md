@@ -1,6 +1,7 @@
 ---
 title: Write metadata
-permalink: /6-write-metadata
+permalink: /06-write-metadata
+layout: episode
 ---
 
 Once you are logged in to Zenodo, go to the [new upload page](https://sandbox.zenodo.org/deposit/new).

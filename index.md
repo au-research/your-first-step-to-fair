@@ -26,14 +26,14 @@ By the end of this workshop, learners will be able to:
 
 | Time | Episode |
 | --- | --- |
-| 0:00 | [Introduction]({{ site.baseurl }}/1-introduction) |
-| 0:05 | [More FAIR than unFAIR]({{ site.baseurl }}/2-more-fair-than-unfair) |
-| 0:10 | [Well-structured data]({{ site.baseurl }}/3-well-structured-data) |
-| 0:20 | [Open data format]({{ site.baseurl }}/4-open-data-format) |
-| 0:25 | [Select a data repository]({{ site.baseurl }}/5-select-a-data-repository) |
-| 0:30 | [Write metadata]({{ site.baseurl }}/6-write-metadata) |
-| 0:40 | [Use your DOI]({{ site.baseurl }}/7-use-your-doi) |
-| 0:45 | [Assess yourself]({{ site.baseurl}}/8-assess-yourself) |
+| 0:00 | [Introduction]({{ site.baseurl }}/01-introduction) |
+| 0:05 | [More FAIR than unFAIR]({{ site.baseurl }}/02-more-fair-than-unfair) |
+| 0:10 | [Well-structured data]({{ site.baseurl }}/03-well-structured-data) |
+| 0:20 | [Open data format]({{ site.baseurl }}/04-open-data-format) |
+| 0:25 | [Select a data repository]({{ site.baseurl }}/05-select-a-data-repository) |
+| 0:30 | [Write metadata]({{ site.baseurl }}/06-write-metadata) |
+| 0:40 | [Use your DOI]({{ site.baseurl }}/07-use-your-doi) |
+| 0:45 | [Assess yourself]({{ site.baseurl}}/08-assess-yourself) |
 
 ## Author
 

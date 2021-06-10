@@ -1,6 +1,7 @@
 ---
 title: Introduction
-permalink: /1-introduction
+permalink: /01-introduction
+layout: episode
 ---
 
 By the end of this workshop, attendees can:

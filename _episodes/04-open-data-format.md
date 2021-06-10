@@ -1,6 +1,7 @@
 ---
 title: Open data format
-permalink: /4-open-data-format
+permalink: /04-open-data-format
+layout: episode
 ---
 
 An "open" data format is one where the standard describing the data is in the public domain, or is licenced so that it is freely

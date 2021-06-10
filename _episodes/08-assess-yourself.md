@@ -1,6 +1,7 @@
 ---
 title: Assess yourself
-permalink: /8-assess-yourself
+permalink: /08-assess-yourself
+layout: episode
 ---
 
 You have just taken your *first* step to FAIR. As previously discussed, "FAIRness" of data is a continuum and there are many opportunities to go beyond the basics.

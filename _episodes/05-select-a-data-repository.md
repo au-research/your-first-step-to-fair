@@ -1,6 +1,7 @@
 ---
 title: Select a data repository
-permalink: /5-select-a-data-repository
+permalink: /05-select-a-data-repository
+layout: episode
 ---
 
 There are no hard and fast rules when choosing a repository for your data, but there are a few things to consider:
