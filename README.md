@@ -8,12 +8,17 @@ The [FAIR Principles](https://doi.org/10.1038/sdata.2016.18) put specific emphas
 This material describe each of the four foundational principles Findable, Accessible, Interoperable and Reusable and use a simple dataset for exemplifying the process of making it FAIR. Note that the FAIR Principles are aspirational and generic. 
 
 ## Learning objectives
+
 By the end of this workshop, learners will be able to:
 
 * List the FAIR foundation principles
 * Upload a dataset to Zenodo
 * Write a metadata record
 * Use the ARDC FAIR data self-assessment tool to inform improvements to the FAIRness of their data
+
+## Audience
+
+This short course is designed for graduate students, researchers, librarians and anyone who is interested in learning the basics of applying the FAIR principles to their research or work practices.
 
 ## Episodes
 
@@ -22,14 +27,14 @@ The contents and suggested time are shown below.
 
 | Time | Episode|
 | --- | --- |
-| 0:00 | [Introduction]([https://au-research.github.io/your-first-step-to-fair/1-introduction) |
-| 0:05 | [More FAIR than unFAIR](https://au-research.github.io/your-first-step-to-fair/2-more-fair-than-unfair) |
-| 0:10 | [Well-structured data](https://au-research.github.io/your-first-step-to-fair/3-well-structured-data) |
-| 0:20 | [Open data format](https://au-research.github.io/your-first-step-to-fair/4-open-data-format) |
-| 0:25 | [Select a data repository](https://au-research.github.io/your-first-step-to-fair/5-select-a-data-repository) |
-| 0:30 | [Write metadata](https://au-research.github.io/your-first-step-to-fair/6-write-metadata) |
-| 0:40 | [Use your DOI](https://au-research.github.io/your-first-step-to-fair/7-use-your-doi) |
-| 0:45 | [Assess yourself](https://au-research.github.io/your-first-step-to-fair/8-assess-yourself) |
+| 0:00 | [Introduction]([https://au-research.github.io/your-first-step-to-fair/01-introduction) |
+| 0:05 | [More FAIR than unFAIR](https://au-research.github.io/your-first-step-to-fair/02-more-fair-than-unfair) |
+| 0:10 | [Well-structured data](https://au-research.github.io/your-first-step-to-fair/03-well-structured-data) |
+| 0:20 | [Open data format](https://au-research.github.io/your-first-step-to-fair/04-open-data-format) |
+| 0:25 | [Select a data repository](https://au-research.github.io/your-first-step-to-fair/05-select-a-data-repository) |
+| 0:30 | [Write metadata](https://au-research.github.io/your-first-step-to-fair/06-write-metadata) |
+| 0:40 | [Use your DOI](https://au-research.github.io/your-first-step-to-fair/07-use-your-doi) |
+| 0:45 | [Assess yourself](https://au-research.github.io/your-first-step-to-fair/08-assess-yourself) |
 
 ## Contributing
 
