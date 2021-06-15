@@ -38,3 +38,4 @@ By the end of this workshop, learners will be able to:
 ## Author
 
 * [Matthias Liffers](https://orcid.org/0000-0002-3639-2080)
+* Other [contributors]({{ site.baseurl }}/contributing)
