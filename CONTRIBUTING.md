@@ -13,6 +13,6 @@ By submitting content to Your first step to FAIR, you confirm and agree that all
 
 2021 ARDC contributing team
 * [Matthias Liffers](https://orcid.org/0000-0002-3639-2080)
-* [Liz Stocks](https://orcid.org/0000-0002-2973-5647)
+* [Liz Stokes](https://orcid.org/0000-0002-2973-5647)
 * [Paula Andrea Martinez](0000-0002-8990-1985)
 * [Keith Russell](0000-0001-5390-2719)
