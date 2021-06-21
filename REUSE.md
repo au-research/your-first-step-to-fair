@@ -47,7 +47,7 @@ adapt the materials, and are willing to share what you’ve done, please
 submit an issue or a pull request and we’ll add them to the
 tool-kit. Let’s share as much as we can!
 
-A snapshot of this repository is periodically saved to Zenodo, after major updates. Please use the suggested citation from the latest version of the Zenodo record if you want to cite any of these materials.
+A snapshot of this repository is periodically saved to Zenodo, after major updates. Please use the suggested citation from [the latest version of the Zenodo record](https://doi.org/10.5281/zenodo.5009206) if you want to cite any of these materials.
 
 ## Examples of reuse
 
